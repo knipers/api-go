@@ -11,7 +11,7 @@ var (
 	ErrInvalidId       = errors.New("Invalid ID")
 	ErrNameIsRequired  = errors.New("Name is required")
 	ErrPriceIsRequired = errors.New("Price is required")
-	ErrInvalidPrice    = errors.New("Invalid price")
+	ErrInvalidPrice    = errors.New("Invalid price informed")
 )
 
 type Product struct {
