@@ -2,7 +2,7 @@
 feature:
  - head-branch: ['^feature', 'feature']
 
- feature:
+feature:
  - head-branch: ['^enhancement', 'feature']
 
 fix:
